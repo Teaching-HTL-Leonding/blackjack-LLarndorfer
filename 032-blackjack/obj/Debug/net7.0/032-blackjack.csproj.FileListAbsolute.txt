@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HTL\Pro\032-blackjack\bin\Debug\net7.0\032-blackjack.exe
+C:\Users\User\Documents\HTL\Pro\032-blackjack\bin\Debug\net7.0\032-blackjack.deps.json
+C:\Users\User\Documents\HTL\Pro\032-blackjack\bin\Debug\net7.0\032-blackjack.runtimeconfig.json
+C:\Users\User\Documents\HTL\Pro\032-blackjack\bin\Debug\net7.0\032-blackjack.dll
+C:\Users\User\Documents\HTL\Pro\032-blackjack\bin\Debug\net7.0\032-blackjack.pdb
+C:\Users\User\Documents\HTL\Pro\032-blackjack\obj\Debug\net7.0\032-blackjack.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\Pro\032-blackjack\obj\Debug\net7.0\032-blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\Pro\032-blackjack\obj\Debug\net7.0\032-blackjack.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\Pro\032-blackjack\obj\Debug\net7.0\032-blackjack.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\Pro\032-blackjack\obj\Debug\net7.0\032-blackjack.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\Pro\032-blackjack\obj\Debug\net7.0\032-blackjack.dll
+C:\Users\User\Documents\HTL\Pro\032-blackjack\obj\Debug\net7.0\refint\032-blackjack.dll
+C:\Users\User\Documents\HTL\Pro\032-blackjack\obj\Debug\net7.0\032-blackjack.pdb
+C:\Users\User\Documents\HTL\Pro\032-blackjack\obj\Debug\net7.0\032-blackjack.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\Pro\032-blackjack\obj\Debug\net7.0\ref\032-blackjack.dll
